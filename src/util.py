@@ -1,3 +1,15 @@
+"""
+name: "Práctica 6: Prestaciones de la virtualización. util.py"
+subtitle: |
+    Funciones de ayuda para cargar los datos
+author:
+    - "Altair Bueno <altair.bueno@uma.es>"
+date: 2022-8-29
+keywords:
+    - "Arquitecturas virtuales"
+    - "Ingeniería del software"
+    - "Práctica 6"
+"""
 import json
 from re import compile, MULTILINE, DOTALL
 

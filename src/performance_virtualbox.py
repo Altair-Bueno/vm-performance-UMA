@@ -10,6 +10,8 @@ keywords:
     - "Arquitecturas virtuales"
     - "Ingeniería del software"
     - "Práctica 6"
+requisites:
+    - paramiko
 """
 from json import dumps
 from subprocess import PIPE, STDOUT, Popen
