@@ -1,0 +1,5 @@
+#!/usr/bin/bc -l
+scale=2000
+pi=4*a(1)
+pi
+quit
